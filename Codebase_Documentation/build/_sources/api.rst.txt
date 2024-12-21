@@ -1,0 +1,7 @@
+API Documentation
+==================
+
+This is the documentation for the API.
+
+.. automodule:: retriever
+   :members:

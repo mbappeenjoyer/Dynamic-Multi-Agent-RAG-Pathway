@@ -1,0 +1,18 @@
+API Documentation
+=================
+
+Retriever Module
+----------------
+
+.. automodule:: retriever
+   :members:
+   :undoc-members:
+   :show-inheritance:
+
+Utilities Module
+----------------
+
+.. automodule:: utils
+   :members:
+   :undoc-members:
+   :show-inheritance:
